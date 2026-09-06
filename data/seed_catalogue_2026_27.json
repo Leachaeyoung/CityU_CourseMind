@@ -1,0 +1,154 @@
+{
+  "catalogue_year": "2026/27",
+  "source_policy": "Only official CityU catalogue search results verified on 2026-08-30. Assessment percentages are indicative and must point users to the detailed course information.",
+  "courses": [
+    {"code":"DSC0001","title":"Internship","credits":0,"subject":"DSC","offering_academic_unit":"Data Science","official_url":"https://www.cityu.edu.hk/catalogue/ug/current/course/DSC0001.htm","required_all":[],"required_any_groups":[]},
+    {"code":"DSC0002","title":"Internship","credits":0,"subject":"DSC","offering_academic_unit":"Data Science","official_url":"https://www.cityu.edu.hk/catalogue/ug/current/course/DSC0002.htm","required_all":[],"required_any_groups":[]},
+    {"code":"DSC0003","title":"Internship","credits":0,"subject":"DSC","offering_academic_unit":"Data Science","official_url":"https://www.cityu.edu.hk/catalogue/ug/current/course/DSC0003.htm","required_all":[],"required_any_groups":[]},
+    {"code":"DSC0004","title":"Internship","credits":0,"subject":"DSC","offering_academic_unit":"Data Science","official_url":"https://www.cityu.edu.hk/catalogue/ug/current/course/DSC0004.htm","required_all":[],"required_any_groups":[]},
+    {"code":"DSC3080","title":"Internship","credits":3,"subject":"DSC","offering_academic_unit":"Data Science","official_url":"https://www.cityu.edu.hk/catalogue/ug/current/course/DSC3080.htm","required_all":[],"required_any_groups":[]},
+    {
+      "code": "DSC1001",
+      "title": "Introduction to Data Science",
+      "credits": 2,
+      "subject": "DSC",
+      "offering_academic_unit": "Data Science",
+      "official_url": "https://www.cityu.edu.hk/catalogue/ug/current/course/DSC1001.htm",
+      "required_all": [],
+      "required_any_groups": []
+    },
+    {
+      "code": "DSC2001",
+      "title": "Python for Data Science",
+      "credits": 4,
+      "subject": "DSC",
+      "offering_academic_unit": "Data Science",
+      "official_url": "https://www.cityu.edu.hk/catalogue/ug/current/course/DSC2001.htm",
+      "required_all": [],
+      "required_any_groups": []
+    },
+    {
+      "code": "CS2334",
+      "title": "Data Structures for Data Science",
+      "credits": 3,
+      "subject": "CS",
+      "offering_academic_unit": "Computer Science",
+      "official_url": "https://www.cityu.edu.hk/catalogue/ug/current/course/CS2334.htm",
+      "required_all": [],
+      "required_any_groups": [
+        ["CS2311", "CS2315", "CS1315"]
+      ]
+    },
+    {
+      "code": "CS3201",
+      "title": "Computer Networks",
+      "credits": 3,
+      "subject": "CS",
+      "offering_academic_unit": "Computer Science",
+      "official_url": "https://www.cityu.edu.hk/catalogue/ug/current/course/CS3201.htm",
+      "required_all": [],
+      "required_any_groups": [
+        ["CS2310", "CS2311", "CS2315", "CS2360", "CS2334"]
+      ]
+    },
+    {
+      "code": "DSC4070",
+      "title": "Large Language Models",
+      "credits": 3,
+      "subject": "DSC",
+      "offering_academic_unit": "Data Science",
+      "official_url": "https://www.cityu.edu.hk/catalogue/ug/current/course/DSC4070.htm",
+      "required_all": [],
+      "required_any_groups": []
+    },
+    {
+      "code": "DSC3006",
+      "title": "Fundamentals of Machine Learning I",
+      "credits": 3,
+      "subject": "DSC",
+      "offering_academic_unit": "Data Science",
+      "official_url": "https://www.cityu.edu.hk/catalogue/ug/current/course/DSC3006.htm",
+      "required_all": [],
+      "required_any_groups": [["MA1503", "MA2503"], ["MA2506", "MA2510"]]
+    },
+    {
+      "code": "DSC4008",
+      "title": "Deep Learning",
+      "credits": 3,
+      "subject": "DSC",
+      "offering_academic_unit": "Data Science",
+      "official_url": "https://www.cityu.edu.hk/catalogue/ug/current/course/DSC4008.htm",
+      "required_all": ["DSC3006"],
+      "required_any_groups": []
+    },
+    {"code":"DSC3001","title":"Big Data: The Arts and Science of Scaling","credits":3,"subject":"DSC","offering_academic_unit":"Data Science","official_url":"https://www.cityu.edu.hk/catalogue/ug/current/course/DSC3001.htm","required_all":[],"required_any_groups":[["CS3402"]]},
+    {"code":"DSC3007","title":"Advanced Statistics","credits":3,"subject":"DSC","offering_academic_unit":"Data Science","official_url":"https://www.cityu.edu.hk/catalogue/ug/current/course/DSC3007.htm","required_all":[],"required_any_groups":[["MS2602","DSC2102"]]},
+    {"code":"DSC3008","title":"Systems Dynamics and Control","credits":3,"subject":"DSC","offering_academic_unit":"Data Science","official_url":"https://www.cityu.edu.hk/catalogue/ug/current/course/DSC3008.htm","required_all":["MA2508","MA1503"],"required_any_groups":[]},
+    {"code":"DSC3013","title":"Introduction to Social Media Analytics","credits":3,"subject":"DSC","offering_academic_unit":"Data Science","official_url":"https://www.cityu.edu.hk/catalogue/ug/current/course/DSC3013.htm","required_all":["DSC1001","DSC2001"],"required_any_groups":[]},
+    {"code":"DSC3019","title":"Introduction to Networked Life and Data Science","credits":3,"subject":"DSC","offering_academic_unit":"Data Science","official_url":"https://www.cityu.edu.hk/catalogue/ug/current/course/DSC3019.htm","required_all":[],"required_any_groups":[]},
+    {"code":"DSC3020","title":"Engineering Economics","credits":3,"subject":"DSC","offering_academic_unit":"Data Science","official_url":"https://www.cityu.edu.hk/catalogue/ug/current/course/DSC3020.htm","required_all":["MA1503"],"required_any_groups":[]},
+    {"code":"DSC3105","title":"Bayesian Analysis","credits":3,"subject":"DSC","offering_academic_unit":"Data Science","official_url":"https://www.cityu.edu.hk/catalogue/ug/current/course/DSC3105.htm","required_all":[],"required_any_groups":[["MA2506","MA2510"]]},
+    {"code":"DSC4024","title":"Project Management and Analysis","credits":3,"subject":"DSC","offering_academic_unit":"Data Science","official_url":"https://www.cityu.edu.hk/catalogue/ug/current/course/DSC4024.htm","required_all":[],"required_any_groups":[]},
+    {"code":"DSC4107","title":"Financial Engineering and Analytics","credits":3,"subject":"DSC","offering_academic_unit":"Data Science","official_url":"https://www.cityu.edu.hk/catalogue/ug/current/course/DSC4107.htm","required_all":[],"required_any_groups":[["MA2506","MA2510"]]},
+    {
+      "code": "DSC4116",
+      "title": "Data Science Capstone",
+      "credits": 6,
+      "subject": "DSC",
+      "offering_academic_unit": "Data Science",
+      "duration_terms": 2,
+      "minimum_major_credits": 30,
+      "official_url": "https://www.cityu.edu.hk/catalogue/ug/current/course/DSC4116.htm",
+      "required_all": [],
+      "required_any_groups": []
+    }
+  ],
+  "source_documents": [
+    {
+      "document_type": "course",
+      "title": "DSC1001 official course facts and indicative assessment",
+      "content": "DSC1001 Introduction to Data Science. Offering Academic Unit: Department of Data Science. Credit Units: 2. Course Duration: One Semester. Equivalent Course(s): SDSC1001. Course Offering Term: Semester A 2026/27. Course aims: introduce data science through data-driven modelling, case studies, projects, written reports and oral presentations. Assessment (Indicative only; check detailed course information): Continuous Assessment 80%; Examination 20%; examination duration 1 hour; minimum continuous assessment passing requirement 30%; minimum examination passing requirement 30%. To pass, overall mark must be at least 40% and both components must be at least 30%.",
+      "source_url": "https://www.cityu.edu.hk/catalogue/ug/current/course/DSC1001.htm",
+      "course_code": "DSC1001",
+      "catalogue_year": "2026/27",
+      "term_id": "2026-A",
+      "source_status": "published"
+    },
+    {
+      "document_type": "course",
+      "title": "CS2334 official course facts and indicative assessment",
+      "content": "CS2334 Data Structures for Data Science. Offering Academic Unit: Department of Computer Science. Credit Units: 3. Course Duration: One Semester. Prerequisite(s): CS2311 or CS2315 or CS1315. Exclusive Course(s): CS3334. Course Offering Term: Semester A 2026/27. Course aims: fundamentals of data structures, heaps, search trees, hash tables, disjoint sets, and mathematical analysis of algorithms. Assessment (Indicative only; check detailed course information): Continuous Assessment 40%; Examination 60%; examination duration 2 hours; minimum examination passing requirement 30%.",
+      "source_url": "https://www.cityu.edu.hk/catalogue/ug/current/course/CS2334.htm",
+      "course_code": "CS2334",
+      "catalogue_year": "2026/27",
+      "term_id": "2026-A",
+      "source_status": "published"
+    },
+    {
+      "document_type": "course",
+      "title": "CS3201 official course facts and indicative assessment",
+      "content": "CS3201 Computer Networks. Offering Academic Unit: Department of Computer Science. Credit Units: 3. Course Duration: One Semester. Pre-cursor(s): CS2310 or CS2311 or CS2315 or CS2360 or CS2334. Course Offering Term: Semester A 2026/27; the offering term is subject to change without prior notice. Course aims: fundamental data communication and computer networks, with the five-layer architecture and transport layer as the main focus. Assessment (Indicative only; check detailed course information): Continuous Assessment 30%; Examination 70%; examination duration 2 hours; minimum examination passing requirement 30%.",
+      "source_url": "https://www.cityu.edu.hk/catalogue/ug/current/course/CS3201.htm",
+      "course_code": "CS3201",
+      "catalogue_year": "2026/27",
+      "term_id": "2026-A",
+      "source_status": "published"
+    },
+    {
+      "document_type": "programme_rule",
+      "title": "BSc Data Science normative programme catalogue notes",
+      "content": "The CityU BSc Data Science normative 4-year degree page states 121 credit units are required for graduation. The page notes that curriculum information is subject to periodic review and changes. Its current page labels major requirements with catalogue term Semester A 2027/28; the effective term of the declared or allocated major determines which major requirement applies. Core examples include DSC1001, DSC2001, DSC2002, DSC2004, DSC2005, DSC2102, CS2334, CS3273, DSC3006, DSC3007 and DSC4116. Electives include DSC/CS choices, with at least 12 credit units from B4-level courses. This document is evidence for explanation only until a student's applicable catalogue year is confirmed.",
+      "source_url": "https://www.cityu.edu.hk/catalogue/ug/current/Major/BSC1_DSC-1.htm",
+      "catalogue_year": "2027/28",
+      "source_status": "published"
+    }
+  ],
+  "programme_course_scopes": [
+    {"programme": "DSC", "catalogue_year": "2027/28", "course_code": "DSC1001", "scope": "core"},
+    {"programme": "DSC", "catalogue_year": "2027/28", "course_code": "DSC3006", "scope": "core"},
+    {"programme": "DSC", "catalogue_year": "2027/28", "course_code": "DSC4008", "scope": "elective"},
+    {"programme": "DSC", "catalogue_year": "2027/28", "course_code": "DSC2001", "scope": "core"},
+    {"programme": "DSC", "catalogue_year": "2027/28", "course_code": "DSC4070", "scope": "elective"},
+    {"programme": "DSC", "catalogue_year": "2027/28", "course_code": "DSC4116", "scope": "core"}
+  ]
+}

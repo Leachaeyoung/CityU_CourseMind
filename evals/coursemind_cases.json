@@ -1,0 +1,22 @@
+[
+  {"id":"fact-01","message":"DSC4070 的先修课和课程内容是什么？","expected_intent":"course_fact"},
+  {"id":"fact-02","message":"DSC3006 的考试比例是多少？","expected_intent":"course_fact"},
+  {"id":"fact-03","message":"DSC4116 是几学期、几学分？","expected_intent":"course_fact"},
+  {"id":"fact-04","message":"CS2334 syllabus 和 prerequisite","expected_intent":"course_fact"},
+  {"id":"fact-05","message":"DSC3105 主要学习什么？","expected_intent":"course_fact"},
+  {"id":"compare-01","message":"DSC3007 的学习体验和工作量怎么样？","expected_intent":"course_compare"},
+  {"id":"compare-02","message":"比较 DSC3006 和 DSC4008 的难度","expected_intent":"course_compare"},
+  {"id":"compare-03","message":"DSC4070 和 DSC4107 哪门课更适合我？","expected_intent":"course_compare"},
+  {"id":"schedule-01","message":"帮我检查 DSC3006 和 DSC4070 的时间冲突","expected_intent":"schedule_plan"},
+  {"id":"schedule-02","message":"2026-A 的 section 和 crn 怎么选？","expected_intent":"schedule_plan"},
+  {"id":"schedule-03","message":"帮我排下学期不冲突的课表","expected_intent":"schedule_plan"},
+  {"id":"schedule-04","message":"DSC3008 的上课时间和教室","expected_intent":"schedule_plan"},
+  {"id":"audit-01","message":"我还差哪些毕业学分？","expected_intent":"degree_audit"},
+  {"id":"audit-02","message":"按照培养方案 audit 我的课程","expected_intent":"degree_audit"},
+  {"id":"audit-03","message":"degreeworks 显示我还缺什么？","expected_intent":"degree_audit"},
+  {"id":"plan-01","message":"帮我规划下学期课程","expected_intent":"personalized_plan"},
+  {"id":"plan-02","message":"根据我的兴趣推荐 DSC 课程","expected_intent":"personalized_plan"},
+  {"id":"plan-03","message":"我想选三门课，帮我规划","expected_intent":"personalized_plan"},
+  {"id":"community-01","message":"大家觉得 DSC3007 老师怎么样？","expected_intent":"course_compare"},
+  {"id":"clarify-01","message":"我不知道该怎么办","expected_intent":"clarification"}
+]

@@ -1,0 +1,125 @@
+[
+  {
+    "document_type": "course",
+    "title": "DSC3006 official course page summary",
+    "content": "DSC3006 Fundamentals of Machine Learning I. Offering Academic Unit: Department of Data Science. Credit Units: 3. Course Duration: One Semester. Prerequisite(s): (MA1503 or MA2503) and (MA2506 or MA2510). Equivalent Course(s): SDSC3006. Course Offering Term: Semester A 2026/27. Course aims include supervised learning, classification, regularization, linear models, model selection and neural network models. Indicative assessment: Continuous Assessment 50%; Examination 50%; examination duration 2 hours; minimum passing requirements 30% for each component.",
+    "source_url": "https://www.cityu.edu.hk/catalogue/ug/current/course/DSC3006.htm",
+    "course_code": "DSC3006",
+    "catalogue_year": "2026/27",
+    "term_id": "2026-A",
+    "source_status": "published"
+  },
+  {
+    "document_type": "course",
+    "title": "DSC4008 official course page summary",
+    "content": "DSC4008 Deep Learning. Offering Academic Unit: Department of Data Science. Credit Units: 3. Course Duration: One Semester. Prerequisite(s): DSC3006. Equivalent Course(s): SDSC4008. Course Offering Term: Semester A 2026/27. Course aims include shallow/deep neural networks, activation functions, convolutional and recursive neural networks, backpropagation, automatic differentiation, stochastic gradient descent, complexity/approximation analysis and application programming. Indicative assessment: Continuous Assessment 60%; Examination 40%; examination duration 2 hours; minimum passing requirements 30% for each component.",
+    "source_url": "https://www.cityu.edu.hk/catalogue/ug/current/course/DSC4008.htm",
+    "course_code": "DSC4008",
+    "catalogue_year": "2026/27",
+    "term_id": "2026-A",
+    "source_status": "published"
+  },
+  {
+    "document_type": "course",
+    "title": "DSC3007 official course page summary",
+    "content": "DSC3007 Advanced Statistics. Department of Data Science; 3 credit units; one semester; prerequisite MS2602 or DSC2102; equivalent SDSC3007; offered Semester A 2026/27. The course covers statistical inference, point estimation, hypothesis testing, asymptotic inference and linear models. Indicative assessment: Continuous Assessment 50%, Examination 50%, 2 hours.",
+    "source_url": "https://www.cityu.edu.hk/catalogue/ug/current/course/DSC3007.htm",
+    "course_code": "DSC3007", "catalogue_year": "2026/27", "term_id": "2026-A", "source_status": "published"
+  },
+  {
+    "document_type": "course",
+    "title": "DSC3008 official course page summary",
+    "content": "DSC3008 Systems Dynamics and Control. Department of Data Science; 3 credit units; one semester; prerequisites MA2508 and MA1503; equivalent SDSC3008; offered Semester A 2026/27. Covers dynamic systems, controller design, computing algorithms and practical applications. Indicative assessment: Continuous Assessment 40%, Examination 60%, 2 hours.",
+    "source_url": "https://www.cityu.edu.hk/catalogue/ug/current/course/DSC3008.htm",
+    "course_code": "DSC3008", "catalogue_year": "2026/27", "term_id": "2026-A", "source_status": "published"
+  },
+  {
+    "document_type": "course",
+    "title": "DSC3013 official course page summary",
+    "content": "DSC3013 Introduction to Social Media Analytics. Department of Data Science; 3 credit units; one semester; prerequisites DSC1001 and DSC2001; equivalent SDSC3013; offered Semester A 2026/27. Topics include social-media infrastructure, user profiling, recommenders, computational advertising, regulation and project management. Indicative assessment: Continuous Assessment 50%, Examination 50%, 2 hours.",
+    "source_url": "https://www.cityu.edu.hk/catalogue/ug/current/course/DSC3013.htm",
+    "course_code": "DSC3013", "catalogue_year": "2026/27", "term_id": "2026-A", "source_status": "published"
+  },
+  {
+    "document_type": "course",
+    "title": "DSC3105 official course page summary",
+    "content": "DSC3105 Bayesian Analysis. Department of Data Science; 3 credit units; one semester; prerequisite MA2506 or MA2510; equivalent SDSC3105; offered Semester A 2026/27. Covers Bayesian statistical theory, interpretation, communication and fitting Bayesian models with R or Matlab. Indicative assessment: Continuous Assessment 60%, Examination 40%, 2 hours.",
+    "source_url": "https://www.cityu.edu.hk/catalogue/ug/current/course/DSC3105.htm",
+    "course_code": "DSC3105", "catalogue_year": "2026/27", "term_id": "2026-A", "source_status": "published"
+  },
+  {
+    "document_type": "course", "title": "DSC4024 official course page summary",
+    "content": "DSC4024 Project Management and Analysis. Department of Data Science; 3 credit units; one semester; offered Semester A 2026/27. The course develops the ability to evaluate, plan and manage engineering and manufacturing projects. Indicative assessment: Continuous Assessment 50%, Examination 50%, 2 hours.",
+    "source_url": "https://www.cityu.edu.hk/catalogue/ug/current/course/DSC4024.htm", "course_code": "DSC4024", "catalogue_year": "2026/27", "term_id": "2026-A", "source_status": "published"
+  },
+  {
+    "document_type": "course", "title": "DSC4107 official course page summary",
+    "content": "DSC4107 Financial Engineering and Analytics. Department of Data Science; 3 credit units; one semester; prerequisite MA2506 or MA2510; equivalent SDSC4107; offered Semester A 2026/27. Covers financial markets, securities, derivatives, arbitrage pricing, portfolio theory, derivative pricing and data analytics. Indicative assessment: Continuous Assessment 40%, Examination 60%, 2 hours.",
+    "source_url": "https://www.cityu.edu.hk/catalogue/ug/current/course/DSC4107.htm", "course_code": "DSC4107", "catalogue_year": "2026/27", "term_id": "2026-A", "source_status": "published"
+  },
+  {
+    "document_type": "course", "title": "DSC4116 official course page summary",
+    "content": "DSC4116 Data Science Capstone. Department of Data Science; 6 credit units over two semesters; prerequisite completed at least 30 CUs of major courses (24 CUs for Advanced Standing II); equivalent SDSC4116; offered Semester A and B 2026/27. Students complete a supervised Data Science project. Indicative assessment is 100% continuous assessment.",
+    "source_url": "https://www.cityu.edu.hk/catalogue/ug/current/course/DSC4116.htm", "course_code": "DSC4116", "catalogue_year": "2026/27", "term_id": "2026-A", "source_status": "published"
+  },
+  {
+    "document_type": "course", "title": "DSC3019 official course page summary",
+    "content": "DSC3019 Introduction to Networked Life and Data Science. Department of Data Science; 3 credit units; one semester; equivalent SDSC3019; offered Semester A 2026/27. Covers techniques behind networked applications including search, video and cellular services, with optimization, algorithms and data analytics. Indicative assessment: Continuous Assessment 70%, Examination 30%, 2 hours.",
+    "source_url": "https://www.cityu.edu.hk/catalogue/ug/current/course/DSC3019.htm", "course_code": "DSC3019", "catalogue_year": "2026/27", "term_id": "2026-A", "source_status": "published"
+  },
+  {
+    "document_type": "course", "title": "DSC3020 official course page summary",
+    "content": "DSC3020 Engineering Economics. Department of Data Science; 3 credit units; one semester; prerequisite MA1503; equivalent SDSC3020; Catalogue lists Semester B 2026/27. Covers time value of money, economic equivalence, depreciation, tax, risk and engineering decision analysis. Indicative assessment: Continuous Assessment 60%, Examination 40%, 2 hours. AIMS Semester A snapshot remains authoritative for that term's Section data.",
+    "source_url": "https://www.cityu.edu.hk/catalogue/ug/current/course/DSC3020.htm", "course_code": "DSC3020", "catalogue_year": "2026/27", "term_id": "2026-A", "source_status": "published"
+  },
+  {
+    "document_type": "course", "title": "DSC2002 official course page summary",
+    "content": "DSC2002 Convex Optimization. Department of Data Science; 3 credit units; one semester. Prerequisites: (MA1503 or MA2503) and MA2508; equivalent SDSC2002. Course offering term: Semester B 2026/27. The course introduces optimization theory, convex sets/functions, optimality conditions and computational methods for data-science applications. Indicative assessment: Continuous Assessment 60%, Examination 40%, 2 hours.",
+    "source_url": "https://www.cityu.edu.hk/catalogue/ug/current/course/DSC2002.htm", "course_code": "DSC2002", "catalogue_year": "2026/27", "source_status": "published"
+  },
+  {
+    "document_type": "course", "title": "DSC2004 official course page summary",
+    "content": "DSC2004 Data Visualization. Department of Data Science; 3 credit units; one semester; equivalent SDSC2004. Course offering term: Semester B 2026/27. The course covers practical visualization with Python and Tableau, exploratory/explanatory visualization, data storytelling and group projects using real-world data. Indicative assessment: Continuous Assessment 70%, Examination 30%, 2 hours.",
+    "source_url": "https://www.cityu.edu.hk/catalogue/ug/current/course/DSC2004.htm", "course_code": "DSC2004", "catalogue_year": "2026/27", "source_status": "published"
+  },
+  {
+    "document_type": "course", "title": "DSC2005 official course page summary",
+    "content": "DSC2005 Introduction to Computational Social Science. Department of Data Science; 3 credit units; one semester. Prerequisites: DSC1001 and DSC2001 (the DSC1001 prerequisite is exempted for Minor in Data Science); equivalent SDSC2005. Course offering term: Semester B 2026/27. Topics include research design, causal inference, sampling, online experiments, behavioural analytics, text mining and social research ethics. Indicative assessment: Continuous Assessment 50%, Examination 50%, 2 hours.",
+    "source_url": "https://www.cityu.edu.hk/catalogue/ug/current/course/DSC2005.htm", "course_code": "DSC2005", "catalogue_year": "2026/27", "source_status": "published"
+  },
+  {
+    "document_type": "course", "title": "DSC2102 official course page summary",
+    "content": "DSC2102 Statistical Methods and Data Analysis. Department of Data Science; 3 credit units; one semester. Prerequisites: MA2506 or MA2510; equivalent SDSC2102. Course offering term: Semester B 2026/27. The course develops descriptive and inferential statistics, statistical modelling and practical data analysis. Indicative assessment: Continuous Assessment 40%, Examination 60%, 2 hours.",
+    "source_url": "https://www.cityu.edu.hk/catalogue/ug/current/course/DSC2102.htm", "course_code": "DSC2102", "catalogue_year": "2026/27", "source_status": "published"
+  },
+  {
+    "document_type": "course", "title": "DSC3003 official course page summary",
+    "content": "DSC3003 Blockchain. Department of Data Science; 3 credit units; one semester; equivalent SDSC3003. Course offering term: Semester B 2026/27. Introduces technological and economic aspects of blockchain, including cryptocurrency, smart contracts and token offerings. Indicative assessment: Continuous Assessment 40%, Examination 60%, 2 hours.",
+    "source_url": "https://www.cityu.edu.hk/catalogue/ug/current/course/DSC3003.htm", "course_code": "DSC3003", "catalogue_year": "2026/27", "source_status": "published"
+  },
+  {
+    "document_type": "course", "title": "DSC3004 official course page summary",
+    "content": "DSC3004 Computational Optimization. Department of Data Science; 3 credit units; one semester. Prerequisite: SDSC2002 or DSC2002; equivalent SDSC3004. The course covers gradient descent, Newton and quasi-Newton methods, constrained optimization and stochastic-gradient methods. The current Catalogue lists it as not offered in the current academic year. Indicative assessment: Continuous Assessment 60%, Examination 40%, 2 hours.",
+    "source_url": "https://www.cityu.edu.hk/catalogue/ug/current/course/DSC3004.htm", "course_code": "DSC3004", "catalogue_year": "2026/27", "source_status": "published"
+  },
+  {
+    "document_type": "course", "title": "DSC3005 official course page summary",
+    "content": "DSC3005 Computational Statistics. Department of Data Science; 3 credit units; one semester. Prerequisite: DSC3007; equivalent SDSC3005. The current Catalogue lists it as not offered in the current academic year. Covers statistical computing with R, EM and Fisher scoring, Monte Carlo/MCMC and bootstrap methods. Indicative assessment: Continuous Assessment 60%, Examination 40%, 2 hours.",
+    "source_url": "https://www.cityu.edu.hk/catalogue/ug/current/course/DSC3005.htm", "course_code": "DSC3005", "catalogue_year": "2026/27", "source_status": "published"
+  },
+  {
+    "document_type": "course", "title": "DSC3010 official course page summary",
+    "content": "DSC3010 Digital Trace Analytics. Department of Data Science; 3 credit units; one semester. Prerequisites: DSC1001 and DSC2001 (DSC1001 is exempted for Minor in Data Science); equivalent SDSC3010. Course offering term: Semester B 2026/27. Covers behavioural data, sampling, questionnaire design, digital-trace measurement, multi-source analytics and privacy protection. Indicative assessment: Continuous Assessment 40%, Examination 60%, 2 hours.",
+    "source_url": "https://www.cityu.edu.hk/catalogue/ug/current/course/DSC3010.htm", "course_code": "DSC3010", "catalogue_year": "2026/27", "source_status": "published"
+  },
+  {
+    "document_type": "course", "title": "DSC3011 official course page summary",
+    "content": "DSC3011 Social Data Processing and Modelling. Department of Data Science; 3 credit units; one semester. Prerequisites: DSC1001 and DSC2001 (DSC1001 is exempted for Minor in Data Science); equivalent SDSC3011. The current Catalogue lists it as not offered in the current academic year. Topics include missing-data handling, record aggregation, data integration, categorical/multivariate/multilevel/latent/temporal/spatial modelling. Indicative assessment: Continuous Assessment 50%, Examination 50%, 2 hours.",
+    "source_url": "https://www.cityu.edu.hk/catalogue/ug/current/course/DSC3011.htm", "course_code": "DSC3011", "catalogue_year": "2026/27", "source_status": "published"
+  },
+  {
+    "document_type": "course", "title": "DSC3013 official course page summary",
+    "content": "DSC3013 Introduction to Social Media Analytics. Department of Data Science; 3 credit units; one semester. Prerequisites: DSC1001 and DSC2001; equivalent SDSC3013. Course offering term: Semester A 2026/27. Topics include social-media infrastructure, business operations, regulatory systems, user profiling, content recommenders, computational advertising and project management. Indicative assessment: Continuous Assessment 50%, Examination 50%, 2 hours.",
+    "source_url": "https://www.cityu.edu.hk/catalogue/ug/current/course/DSC3013.htm", "course_code": "DSC3013", "catalogue_year": "2026/27", "term_id": "2026-A", "source_status": "published"
+  }
+]

@@ -1,0 +1,1 @@
+"""CourseMind backend package."""

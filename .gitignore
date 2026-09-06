@@ -1,0 +1,14 @@
+.DS_Store
+.env
+.env.*
+!.env.example
+backend/.venv/
+backend/.pytest_cache/
+backend/*.egg-info/
+backend/__pycache__/
+backend/app/**/__pycache__/
+backend/tests/**/__pycache__/
+backend/coursemind.db
+coursemind.db
+tmp/
+*.pyc
